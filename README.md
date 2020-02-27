@@ -1,4 +1,4 @@
-# VisualisasiData
+# Visualisasi Data
 Warna yang dapat digunakan dalam bahasa R untuk membuat grafik:
 http://www.sthda.com/english/wiki/colors-in-r
 
